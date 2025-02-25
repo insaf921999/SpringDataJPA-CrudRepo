@@ -1,0 +1,11 @@
+Dans le cadre de ce projet on a :
+- Manipuler un projet SpringBoot sur Github avec Git CLI.
+- Exécuter les différentes commandes de Maven en ligne de commandes pour générer le
+livrable.
+- Intégrer les outils de journalisation et afficher les messages de log avec Log4j
+- Affecter les test unitaires avec Junit
+- Affecter les tests statiques avec SonarQube.
+- Mettre en place le Repo distant Nexus
+- Ecrire le code Groovy du pipeline Jenkins et configurer le webhook pour chaque push.
+- Envoyer un mail de notification à la fin de chaque Build.
+Environnement technique: Maven, Log4j, SpringBoot, Junit, Git, SonarQube, Nexus, Jenkins
